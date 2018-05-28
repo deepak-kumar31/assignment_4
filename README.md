@@ -1,4 +1,4 @@
 [gallary.html](./gallary.html)
 #output
-![alt text](./original.png)
-![alt text](./changed.png)
+![alt text](jquery/original.png)
+![alt text](jquery/changed.png)
